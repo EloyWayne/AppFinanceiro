@@ -29,18 +29,19 @@ Para rodar o projeto localmente, siga os seguintes passos:
    cd AppFinanceiro
 
 2. **Instale as dependências:**
-   
-  npm install
 
-3. **Inicie o servidor do Expo:**
+   ```sh
+     npm install
 
+4. **Inicie o servidor do Expo:**
+   ```sh
     expo start
 
-4. **Execute no emulador ou dispositivo físico:**
+5. **Execute no emulador ou dispositivo físico:**
 
     Abra o aplicativo Expo Go no seu dispositivo móvel e escaneie o código QR fornecido no terminal.
 
-5. **Estrutura do Projeto:**
+6. **Estrutura do Projeto:**
 
 App.js: Ponto de entrada do aplicativo. Configura a navegação entre as páginas.
 
